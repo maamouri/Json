@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "configs": [
     {
       "id": 1,
       "title": "Post 1"
@@ -13,7 +13,7 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
+  "states": [
     {
       "id": 1,
       "body": "some comment",
@@ -24,8 +24,5 @@
       "body": "some comment",
       "postId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
