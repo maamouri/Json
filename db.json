@@ -1,9 +1,8 @@
 {
-  "configs": [
+  "posts": [
     {
-      "code": "'Build': ↵ { ↵ ↵ }↵'Deploy':↵{↵ ↵}",
       "id": 1,
-      "repoId": "{768d4d44-9440-4fd5-aa4e-e1280bf488b4}"
+      "title": "Post 1"
     },
     {
       "id": 2,
@@ -14,16 +13,19 @@
       "title": "Post 3"
     }
   ],
-  "states": [
+  "comments": [
     {
       "id": 1,
-      "repoId": "{768d4d44-9440-4fd5-aa4e-e1280bf488b4}",
-      "state": "on"
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
       "body": "some comment",
       "postId": 1
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
