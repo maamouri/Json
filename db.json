@@ -1,8 +1,9 @@
 {
   "configs": [
     {
+      "code": "'Build': ↵ { ↵ ↵ }↵'Deploy':↵{↵ ↵}",
       "id": 1,
-      "title": "Post 1"
+      "repoId": "{768d4d44-9440-4fd5-aa4e-e1280bf488b4}"
     },
     {
       "id": 2,
@@ -16,8 +17,8 @@
   "states": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "repoId": "{768d4d44-9440-4fd5-aa4e-e1280bf488b4}",
+      "state": "on"
     },
     {
       "id": 2,
