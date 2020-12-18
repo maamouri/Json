@@ -1,9 +1,8 @@
 {
   "Post": {
     "title": "string",
-    "views": "int",
-    "published": "date",
-    "createdAt": "date",
+    "created": "date",
+    "ended": "date",
     "comments": "Comment[]"
   }
 }
