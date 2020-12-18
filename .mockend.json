@@ -3,6 +3,6 @@
     "title": "string",
     "created": "date",
     "ended": "date",
-    "comments": "Comment[]"
+    "state":"boolean"
   }
 }
