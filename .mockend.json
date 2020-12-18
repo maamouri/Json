@@ -1,5 +1,5 @@
 {
-  "Posts": {
+  "Post": {
     "pull": "string",
     "created": "date",
     "ended": "date",
