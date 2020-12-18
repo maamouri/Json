@@ -1,5 +1,5 @@
 {
-  "FlowExecutions": {
+  "Posts": {
     "pull": "string",
     "created": "date",
     "ended": "date",
